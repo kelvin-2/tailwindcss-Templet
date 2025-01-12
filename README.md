@@ -1,0 +1,2 @@
+# tailwindcss-Templet
+tailwind configurations 
